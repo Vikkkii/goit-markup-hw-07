@@ -3,8 +3,6 @@
 @import "./base/common";
 @import "./base/container";
 @import "./base/name";
-@import "./base/blue";
-@import "./base/dark-bg";
 
 @import "./components/button";
 @import "./components/nav";
@@ -14,7 +12,6 @@
 @import "./components/team-card";
 @import "./components/title-label";
 @import "./components/hide-title";
-@import "./components/shadow";
 @import "./components/thumb";
 @import "./components/team-icons";
 @import "./components/footer-title";
@@ -28,8 +25,7 @@
 @import "./layouts/navigation";
 @import "./layouts/header";
 @import "./layouts/hero";
-@import "./layouts/section-size";
-@import "./layouts/section-padding";
+@import "./layouts/section";
 @import "./layouts/bg-color-section";
 @import "./layouts/flex";
 @import "./layouts/flex-projects";
